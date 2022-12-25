@@ -3,8 +3,6 @@ import board
 from rainbowio import colorwheel
 import neopixel
 
-import time
-import random
 import usb_midi
 import adafruit_midi
 from adafruit_midi.note_on import NoteOn
